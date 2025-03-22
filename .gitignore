@@ -89,5 +89,6 @@ target/
 .mypy_cache/
 
 # environment
- .venv/
+.venv/
+/run_information.json
 
